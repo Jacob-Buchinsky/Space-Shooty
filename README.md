@@ -1,2 +1,0 @@
-# Space-Shooty
-Game Implementation
